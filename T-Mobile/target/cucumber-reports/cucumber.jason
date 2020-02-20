@@ -1,0 +1,573 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "T-Mobile Home Page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 9249668000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at T-Mobile home page",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_am_at_T_Mobile_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-17T06:01:48.779Z",
+        "line": 6,
+        "name": "1. Search Button Clickable",
+        "description": "",
+        "id": ";1.-search-button-clickable",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5283592000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on search button",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_click_on_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 304283000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I close the browser",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "T-Mobile Home Page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5512742000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at T-Mobile home page",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_am_at_T_Mobile_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-17T06:02:03.646Z",
+        "line": 10,
+        "name": "2. Wireless Button Clickable",
+        "description": "",
+        "id": ";2.-wireless-button-clickable",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5234131000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on Wireless button",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_click_on_Wireless_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 370213000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I close the browser",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "T-Mobile Home Page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 6367246000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at T-Mobile home page",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_am_at_T_Mobile_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-17T06:02:14.768Z",
+        "line": 14,
+        "name": "3. business Button Clickable",
+        "description": "",
+        "id": ";3.-business-button-clickable",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3884928000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on business button",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_click_on_business_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 291822000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I close the browser",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "T-Mobile Home Page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5377754000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at T-Mobile home page",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_am_at_T_Mobile_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-17T06:02:25.318Z",
+        "line": 18,
+        "name": "4. Prepaid Button Clickable",
+        "description": "",
+        "id": ";4.-prepaid-button-clickable",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5071069000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I click on Prepaid button",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_click_on_Prepaid_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 273875000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I close the browser",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "T-Mobile Home Page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4821517000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at T-Mobile home page",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_am_at_T_Mobile_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-17T06:02:36.047Z",
+        "line": 22,
+        "name": "5. Tv Button Clickable",
+        "description": "",
+        "id": ";5.-tv-button-clickable",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5468822000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I click on Tv button",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_click_on_Tv_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 274620000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I close the browser",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "T-Mobile Home Page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5013989000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at T-Mobile home page",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_am_at_T_Mobile_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-17T06:02:46.616Z",
+        "line": 26,
+        "name": "6. Banking Button Clickable",
+        "description": "",
+        "id": ";6.-banking-button-clickable",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4750964000,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I click on Banking button",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_click_on_Banking_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 352284000,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I close the browser",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "T-Mobile Home Page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5170754000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at T-Mobile home page",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_am_at_T_Mobile_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-17T06:02:56.740Z",
+        "line": 30,
+        "name": "7. PhonesNDevices Button Clickable",
+        "description": "",
+        "id": ";7.-phonesndevices-button-clickable",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5483523000,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "I click on PhonesNDevices button",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_click_on_PhonesNDevices_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 248027000,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "I close the browser",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "T-Mobile Home Page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4778089000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at T-Mobile home page",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_am_at_T_Mobile_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-17T06:03:07.647Z",
+        "line": 34,
+        "name": "8. phones Button Clickable",
+        "description": "",
+        "id": ";8.-phones-button-clickable",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9222409000,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "I click on phones button",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_click_on_phones_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 273003000,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "I close the browser",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "T-Mobile Home Page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4915072000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at T-Mobile home page",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_am_at_T_Mobile_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-17T06:03:21.925Z",
+        "line": 38,
+        "name": "9. tablets Button Clickable",
+        "description": "",
+        "id": ";9.-tablets-button-clickable",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8541404000,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "I click on tablets button",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_click_on_tablets_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 333423000,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "I close the browser",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "T-Mobile Home Page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5284169000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at T-Mobile home page",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_am_at_T_Mobile_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-17T06:03:35.721Z",
+        "line": 42,
+        "name": "10. smartWatches Button Clickable",
+        "description": "",
+        "id": ";10.-smartwatches-button-clickable",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5382069000,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "I click on smartWatches button",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_click_on_smartWatches_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 264016000,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "I close the browser",
+            "match": {
+              "location": "stepDefination.HomePageStepDefination.i_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "",
+    "description": "",
+    "id": "",
+    "keyword": "Feature",
+    "uri": "file:src/test/featurefile/homePage.feature",
+    "tags": []
+  }
+]
